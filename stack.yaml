@@ -1,0 +1,5 @@
+packages:
+- .
+resolver:
+  compiler: ghc-8.2.2
+extra-deps: []
